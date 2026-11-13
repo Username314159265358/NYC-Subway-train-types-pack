@@ -1,0 +1,8 @@
+{
+  "id": "nyc-subway-divisions-mod",
+  "name": "NYC Subway Divisions Mod",
+  "version": "1.0.0",
+  "author": "Username314159265358",
+  "description": "Adds standalone NYC A Division (51ft IRT, 3-11 cars) and B Division (60ft IND/BMT, 3-10 cars) train types without overwriting vanilla trains.",
+  "main": "index.js"
+}
